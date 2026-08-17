@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  
+  <!-- Qt文字 -->
+  <text x="32" y="20" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="black" text-anchor="middle">Qt</text>
+  
+  <!-- 下箭头 -->
+  <path d="M 32 32 L 32 54" 
+        stroke="currentColor" 
+        stroke-width="4" 
+        stroke-linecap="round"/>
+  <path d="M 24 48 L 32 56 L 40 48" 
+        fill="none" 
+        stroke="currentColor" 
+        stroke-width="4" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  
+  <!-- 底部横线 -->
+  <line x1="18" y1="60" x2="46" y2="60" 
+        stroke="currentColor" 
+        stroke-width="4" 
+        stroke-linecap="round"/>
+</svg>
